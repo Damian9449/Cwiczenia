@@ -1,1 +1,2 @@
 Tekst pierwszy w pliku2.
+Tekst drugi w pliku2.
