@@ -1,6 +1,4 @@
 Pierwszy tekst.
-Drugi tekst - quickFix
-
+Drugi tekst.
 Trzeci tekst.
-
 Czwarty tekst.
