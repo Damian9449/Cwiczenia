@@ -1,2 +1,6 @@
 Pierwszy tekst.
-Drugi tekst
+Drugi tekst.
+
+Trzeci tekst.
+
+Czwarty tekst.
