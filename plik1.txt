@@ -3,4 +3,5 @@ Drugi tekst.
 Trzeci tekst.
 Czwarty tekst.
 Zmiana dokonana lokalnie.
+Zmiana dokonana na serwerze.
 
